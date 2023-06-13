@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afa78ba5.css",
+    "main.js": "/static/js/main.67c78a22.js",
+    "static/media/Phamelo.ttf": "/static/media/Phamelo.54902e345ec9f3b4f0ca.ttf",
+    "index.html": "/index.html",
+    "main.afa78ba5.css.map": "/static/css/main.afa78ba5.css.map",
+    "main.67c78a22.js.map": "/static/js/main.67c78a22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afa78ba5.css",
+    "static/js/main.67c78a22.js"
+  ]
+}
