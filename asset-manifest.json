@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.afa78ba5.css",
-    "main.js": "/static/js/main.67c78a22.js",
-    "static/media/Phamelo.ttf": "/static/media/Phamelo.54902e345ec9f3b4f0ca.ttf",
-    "index.html": "/index.html",
-    "main.afa78ba5.css.map": "/static/css/main.afa78ba5.css.map",
-    "main.67c78a22.js.map": "/static/js/main.67c78a22.js.map"
+    "main.css": "https://srinanoo.github.io/jan-online-batch-2023-reactjs-output/static/css/main.41ff64eb.css",
+    "main.js": "https://srinanoo.github.io/jan-online-batch-2023-reactjs-output/static/js/main.67c78a22.js",
+    "static/media/Phamelo.ttf": "https://srinanoo.github.io/jan-online-batch-2023-reactjs-output/static/media/Phamelo.54902e345ec9f3b4f0ca.ttf",
+    "index.html": "https://srinanoo.github.io/jan-online-batch-2023-reactjs-output/index.html",
+    "main.41ff64eb.css.map": "https://srinanoo.github.io/jan-online-batch-2023-reactjs-output/static/css/main.41ff64eb.css.map",
+    "main.67c78a22.js.map": "https://srinanoo.github.io/jan-online-batch-2023-reactjs-output/static/js/main.67c78a22.js.map"
   },
   "entrypoints": [
-    "static/css/main.afa78ba5.css",
+    "static/css/main.41ff64eb.css",
     "static/js/main.67c78a22.js"
   ]
 }
